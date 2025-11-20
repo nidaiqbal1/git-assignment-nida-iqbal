@@ -3,4 +3,10 @@ Nida Iqbal
 CR (DFCS) / B / 129
 I am a student learning Git and GitHub. This is my Git assignment.
 This text is from main branch.
+ HEAD
+This text is from main branch.
 
+This text is from conflict branch.
+ feature-conflict
+
+Both branches updated this line.
