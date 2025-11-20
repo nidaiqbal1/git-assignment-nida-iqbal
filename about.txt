@@ -1,0 +1,10 @@
+Hobbies:
+- Reading
+- Learning new technologies
+- Writing
+- Watching tech videos
+
+Future Goals:
+- To become a professional full-stack developer
+- To master Node.js, React, and MongoDB
+- To work on real-world projects
